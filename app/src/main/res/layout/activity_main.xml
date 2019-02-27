@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context="com.example.android.bangaloreguide.MainActivity">
+    <ImageView
+        android:id="@+id/cover"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/background"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="16dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/white"
+        android:layout_marginBottom="16dp">
+    <TextView
+        android:id="@+id/city"
+        style="@style/CategoryStyle"
+        android:layout_weight="1"
+        android:layout_marginRight="8dp"
+        android:text="@string/category_city"
+        android:fontFamily="serif"/>
+
+    <TextView
+        android:id="@+id/restaurant"
+        android:layout_weight="1"
+        android:layout_marginLeft="8dp"
+        style="@style/CategoryStyle"
+        android:text="@string/category_restaurants"
+        android:fontFamily="serif"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/white"
+        android:layout_marginBottom="16dp">
+
+    <TextView
+        android:layout_below="@id/restaurant"
+        android:id="@+id/entertainment"
+        android:layout_weight="1"
+        android:layout_marginRight="8dp"
+        style="@style/CategoryStyle"
+        android:text="@string/category_entertainment"
+        android:fontFamily="serif"/>
+
+    <TextView
+        android:layout_below="@id/entertainment"
+        android:id="@+id/events"
+        android:layout_weight="1"
+        android:layout_marginLeft="8dp"
+        style="@style/CategoryStyle"
+        android:text="@string/category_events"
+        android:fontFamily="serif"/>
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/white"
+        android:layout_marginBottom="16dp">
+
+    <TextView
+        android:layout_below="@id/events"
+        android:id="@+id/nearby"
+        android:layout_weight="1"
+        android:layout_marginRight="8dp"
+        style="@style/CategoryStyle"
+        android:text="@string/category_nearby"
+        android:fontFamily="serif"/>
+
+    <TextView
+        android:layout_below="@id/nearby"
+        android:id="@+id/share"
+        android:layout_weight="1"
+        android:onClick="Share"
+        android:layout_marginLeft="8dp"
+        style="@style/CategoryStyle"
+        android:text="@string/category_share"
+        android:fontFamily="serif"/>
+        </LinearLayout>
+
+</LinearLayout>

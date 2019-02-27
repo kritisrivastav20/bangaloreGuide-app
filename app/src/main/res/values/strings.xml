@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Bangalore Guide</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_entertainment">Entertainment</string>
+
+    <string name="category_city">About</string>
+
+    <string name="category_events">Events</string>
+
+    <string name="category_nearby">Nearby Stations</string>
+
+    <string name="category_share">Share</string>
+
+    <string name="Introduction">Cosmopolitan Bengaluru (formerly Bangalore) is most progressive and developed cities of India.It is blessed with a benevolent climate and a burgeoning drinking, dining and shopping scene. Yes, its creature comforts are a godsend to the weary traveller who has done the hard yards and it is a great city for mixing with locals in craft beer joints or quirky independent cafes. Though there are no world-class sights, you will find lovely parks and striking Victorian-era architecture.</string>
+    <string name="Bangalore">Welcome to Bengaluru</string>
+    <string name="Details_1">Ran by fashion designer duo Sonali Sattar and Himanshi Dimri, Grasshopper provides guests with a fusion of the best food and design, within its four walls. The perfect spot for an unhurried, relaxing meal far from the bustle of urban life, Grasshopper is situated on the duo’s farm – an appealing choice for many city dwellers.</string>
+    <string name="Hotel_1">Grasshopper</string>
+    <string name="Details_2">Offering one of the most coveted dining experiences in the city, Karavalli at The Gateway Hotelfeatures on the list of San Pellegrino Asia’s 50 Best Restaurants. Visitors here can feast on an array of excellent South Indian dishes, from seasonal curries to wood-fired meats.</string>
+    <string name="Hotel_2">Karavalli</string>
+    <string name="Details_3">A favourite hangout spot among locals, Café Thulp! is said to serve the best burgers in Bangalore. The freshly made beef burgers are gourmet, and are available with a variety of toppings, ranging from the standard to the adventurous.</string>
+    <string name="Hotel_3">Cafe Thulp!</string>
+    <string name="Details_4">Located within the ITC Gardenia Hotel, Edo Restaurant is an authentic Japanese eatery serving Bangalore a wide variety of luxuriously tasty dishes. </string>
+    <string name="Hotel_4">Edo Restaurant and Bar</string>
+
+    <string name="Desc_1">The majestic Bangalore palace, enclosed by beautiful gardens, is a famous tourist attraction in Bangalore. It is now owned by the Mysore Royal family. </string>
+    <string name="Place_1">Bangalore Palace</string>
+    <string name="Desc_2">This botanical garden is a haven for all nature lovers. It was commissioned by Hyder Ali in 1760 and completed by Tipu Sultan, with a spread of 240 acres. The garden features rare plants of French, Persian and Afghani origin and has attained status of a Government Botanical Garden.  </string>
+    <string name="Place_2">Lal Bagh</string>
+    <string name="Desc_3">This park is a major sightseeing attraction, with 300 acres of green foliage. Having been laid down by Lord Cubbon, it is an ideal place for nature lovers an those seeking a calm atmosphere.</string>
+    <string name="Place_3">Cubbon Park</string>
+    <string name="Desc_4">Housing the first butterfly park of India, this park has a huge variety of fauna, making it one of the most enjoyable tourist attractions in the city.  </string>
+    <string name="Place_4">Banerghatta National Park</string>
+
+    <string name="nearby_1">Coorg</string>
+    <string name="nearby1">Coorg, officially known as Kodagu, is the most affluent hill station in Karnataka. It is well known for its breathtakingly exotic scenery and lush greenery. Forest covered hills, spice and coffee plantations only add to the landscape.</string>
+    <string name="nearby_2">Ooty</string>
+    <string name="nearby2">It is situated at an altitude of 2, 240 mt above sea level and is thus a delightful honeymoon spot. One can notice a marvelous change in vegetation, as one goes from Kallar to Coonoor. The establishment of numerous tea estates made Ooty famous.</string>
+    <string name="nearby_3">Bheemeshwari</string>
+    <string name="nearby3">This small town nearÊBangaloreÊcity is a perfect getaway for a nature lover and in its seclusion is a pleasant contrast to the hustle and bustle of the city. The flora that creates picturesque views, also supports an exotic wildlife which includes crocodiles, wild boars, leopards, jackals and deers.</string>
+    <string name="nearby_4">Savandurga</string>
+    <string name="nearby4">Situated 60 kms to the west of Bangalore, Savandurga, considered to be one of the largest single rock formation in the whole of Asia. It comprises of two hills, Billigudda (white hill) and Karigudda (black hill) and has a temple situated at the foothill and a pond near by.</string>
+
+    <string name="events_1">3rd Sunday adidas run</string>
+    <string name="events1">Have you been waiting to participate in a run which is driven by fitness individuals? We introduced this running event with a group of 5 runners and eventually, it has scaled to more than 300 runners.</string>
+    <string name="events_2">WWE Live India</string>
+    <string name="events2">Wrestling fans in India can rejoice as much as they can! One of the biggest wrestling events of the world is all set to make it’s comeback here in style. WWE, World Wrestling Entertainment, is one of the world’s most popular and followed sports and entertainment in the world.</string>
+    <string name="events_3">Happiest Minds Run</string>
+    <string name="events3">Happiest Minds are coming up with Run Miles Bring Smiles a golden opportunity for all of you to be a part of a noble cause.</string>
+    <string name="events_4">Pink City Half Marathon</string>
+    <string name="events4">organized for the second time in Jaipur, on 24th December 2017. It consists of a 6 km Dream Run, 10 km Cool Run and 21 km Half Marathon. </string>
+
+
+
+</resources>
+
